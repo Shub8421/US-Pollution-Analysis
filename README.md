@@ -22,7 +22,7 @@ Python
 •	The most polluted cities are mainly large urban centers, especially in Colorado (Denver), California (Burbank, Los Angeles), and along the US-Mexico border (Tijuana, Mexicali).
 •	These cities consistently show higher average NO2 and CO levels, which are linked to heavy traffic and urban activity.
 •	Western states generally have higher pollution levels than many eastern states, likely due to a combination of population density, geography, and industrial activity.
-________________________________________
+
 2. Seasonal Patterns
 •	NO2 and CO concentrations are highest in winter (December–February). This is likely due to increased heating, more vehicle idling, and atmospheric conditions (like temperature inversions) that trap pollutants near the ground.
 •	Ozone (O3) peaks in the summer months, driven by sunlight and heat, which promote ozone formation.
@@ -49,7 +49,7 @@ Between 2006 and 2010, air quality showed a noticeable improvement across multip
 •	Seasonal changes mean that different groups are at risk at different times of year (e.g., winter for NO2/CO, summer for O3).
 •	Border regions face unique challenges, as pollution can cross international lines.
 •	Industrial areas show distinct pollution spikes, especially for SO2.
-________________________________________
+
 6. Recommendations
 •	Focus emission controls and public health interventions on winter months in urban areas.
 •	Implement stricter vehicle emission standards in cities with high NO2 and CO.
