@@ -37,7 +37,6 @@ From 2006 to 2010, the Air Quality Index (AQI) for major pollutants showed a gen
 •	These trends suggest effective air pollution control measures during this period, with the most significant long-term improvement observed in NO₂ levels.
 
 4.Yearly Statistic for Pollutants
-Between 2006 and 2010, air quality showed a noticeable improvement across multiple pollutants:
 •	Carbon Monoxide (CO): CO levels peaked in 2006, but both average and maximum values declined steadily through 2010, indicating a consistent improvement.
 •	Ozone (O₃): Although the highest levels were recorded in 2008, average O₃ levels remained relatively constant. The highest AQI related to O₃ occurred in 2007, but subsequent years saw reduced extremes.
 •	Nitrogen Dioxide (NO₂): NO₂ levels peaked in 2007, yet average concentrations declined from 2006 to 2010, reflecting better air quality control over time.
@@ -57,6 +56,6 @@ Between 2006 and 2010, air quality showed a noticeable improvement across multip
 •	Enhance monitoring and regulation in industrial zones with high SO2.
 
 7.Percentage distribution of AQI categories
-•	Border The overall air quality is generally safe, with the vast majority of pollutant readings—particularly for NO₂, SO₂, and CO—falling within the "Good" category. 
+•	The overall air quality is generally safe, with the vast majority of pollutant readings—particularly for NO₂, SO₂, and CO—falling within the "Good" category. 
 •	However, Ozone (O₃) stands out as the pollutant of most concern, showing the widest distribution across air quality categories and the highest percentage of readings in unhealthy ranges
 •	This indicates that while short-term exposure to most pollutants may not pose a significant health risk, O₃ requires closer monitoring and potential mitigation efforts, especially due to its more frequent impact on sensitive groups and occasional spikes into unhealthy zones.
