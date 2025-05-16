@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1m6u7KQyPnXrTmOnx3IFLVnNfA5gEqHSN/view?usp=drive
 
 # **Tools**
 
-Jupyter Notebook , Power BI
+Jupyter Notebook , Tableau
 
 # **Programming Language**
 
