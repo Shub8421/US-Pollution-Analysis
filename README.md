@@ -45,7 +45,7 @@ From 2006 to 2010, the Air Quality Index (AQI) for major pollutants showed a gen
 
 5. Public Health Implications
 •	Urban populations are exposed to higher and more consistent levels of multiple pollutants.
-•	Seasonal changes mean that different groups are at risk at different times of year (e.g., winter for NO2/CO, summer for O3).
+•	Seasonal changes mean that different groups are at risk at different times of year.
 •	Border regions face unique challenges, as pollution can cross international lines.
 •	Industrial areas show distinct pollution spikes, especially for SO2.
 
