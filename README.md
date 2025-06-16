@@ -18,22 +18,18 @@ Python
 
 # **Conclusions**
 
-1. Geographic Hotspots
 •	The most polluted cities are mainly large urban centers, especially in Colorado (Denver), California (Burbank, Los Angeles), and along the US-Mexico border (Tijuana, Mexicali).
 
 •	These cities consistently show higher average NO2 and CO levels, which are linked to heavy traffic and urban activity.
 
 •	Western states generally have higher pollution levels than many eastern states, likely due to a combination of population density, geography, and industrial activity.
 
-3. Seasonal Patterns
 •	NO2 and CO concentrations are highest in winter (December–February). This is likely due to increased heating, more vehicle idling, and atmospheric conditions (like temperature inversions) that trap pollutants near the ground.
 
 •	Ozone (O3) peaks in the summer months, driven by sunlight and heat, which promote ozone formation.
 
 •	SO2 patterns are more variable, often spiking in areas with specific industrial activities.
 
-5. Yearly Pattern 
-From 2006 to 2010, the Air Quality Index (AQI) for major pollutants showed a general downward trend, indicating an overall improvement in air quality:
 •	Carbon Monoxide (CO) AQI steadily decreased, nearing 80 in 2009 and slightly dropping further in 2010.
 
 •	Ozone (O₃) AQI showed a consistent decline, reaching around 206 in 2009 and dropping below 200 in 2010.
@@ -55,7 +51,6 @@ From 2006 to 2010, the Air Quality Index (AQI) for major pollutants showed a gen
 
 •	Air Quality Index (AQI): The highest AQI values for each pollutant were mostly concentrated in 2006–2007, with noticeably lower values in later years.
 
-5. Public Health Implications
 •	Urban populations are exposed to higher and more consistent levels of multiple pollutants.
 
 •	Seasonal changes mean that different groups are at risk at different times of year.
@@ -64,7 +59,6 @@ From 2006 to 2010, the Air Quality Index (AQI) for major pollutants showed a gen
 
 •	Industrial areas show distinct pollution spikes, especially for SO2.
 
-7. Recommendations
 •	Focus emission controls and public health interventions on winter months in urban areas.
 
 •	Implement stricter vehicle emission standards in cities with high NO2 and CO.
@@ -73,7 +67,6 @@ From 2006 to 2010, the Air Quality Index (AQI) for major pollutants showed a gen
 
 •	Enhance monitoring and regulation in industrial zones with high SO2.
 
-7.Percentage distribution of AQI categories
 •	The overall air quality is generally safe, with the vast majority of pollutant readings—particularly for NO₂, SO₂, and CO—falling within the "Good" category. 
 
 •	However, Ozone (O₃) stands out as the pollutant of most concern, showing the widest distribution across air quality categories and the highest percentage of readings in unhealthy ranges
