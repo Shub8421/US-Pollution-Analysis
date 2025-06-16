@@ -40,7 +40,6 @@ Python
 
 •	These trends suggest effective air pollution control measures during this period, with the most significant long-term improvement observed in NO₂ levels.
 
-4.Yearly Statistic for Pollutants
 •	Carbon Monoxide (CO): CO levels peaked in 2006, but both average and maximum values declined steadily through 2010, indicating a consistent improvement.
 
 •	Ozone (O₃): Although the highest levels were recorded in 2008, average O₃ levels remained relatively constant. The highest AQI related to O₃ occurred in 2007, but subsequent years saw reduced extremes.
